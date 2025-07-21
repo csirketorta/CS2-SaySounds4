@@ -7,7 +7,7 @@ SaySounds4 is a CounterStrikeSharp plugin for CS2 that allows players to trigger
 - **CounterStrikeSharp** API installed on your server
 - **MySQL/MariaDB** database for storing mute states
 - **MultiAddon manager** to load the custom sounds
-- Sound files placed in the correct `csgo/sounds/saysounds/` folder in the addon. (For example take a look at this: https://steamcommunity.com/sharedfiles/filedetails/?id=3526275068)
+- Sound files placed in the correct `csgo/sounds/saysounds/` folder in the addon. (For example take a look at this with Source2Viewer: https://steamcommunity.com/sharedfiles/filedetails/?id=3526275068)
 
 ## Features
 - ✅ Trigger sounds via chat commands (`apam`, `boom`, etc.)
